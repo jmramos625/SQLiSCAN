@@ -1,0 +1,1 @@
+This script is designed to detect potential SQL Injection vulnerabilities in web applications by injecting common payloads into URL parameters and analyzing the server’s response. It helps identify insecure input handling that could allow unauthorized access or manipulation of a database, supporting ethical hacking and penetration testing workflows.
